@@ -5,7 +5,7 @@ Whether it's 🖍️digital art, ✏️sketching, 🖱️3D modelling, or someti
 
 Art isn't just a hobby for me—it's my playground✨!
 
-When I'm not experimenting with my personal projects, you can find me exploring the outdoors for inspiration🌻, scrolling pinterest📱, or jamming to my favorite tunes🎶🎵!
+When I'm not concocting with my personal projects, you can find me exploring the outdoors for inspiration🌻, scrolling pinterest📱, or jamming to my favorite tunes🎶🎵!
 
 Feel free to browse my work💼, drop a comment📩, or even collaborate on a project✋. Creativity knows no bounds, and I'm excited to see where it could takes us!
 Warm Regards.
