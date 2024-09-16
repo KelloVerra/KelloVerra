@@ -1,9 +1,9 @@
 ### Hellow! Nice to meet ya :>👋
 
-I'm KelloVerra, a creative soul who thrives on turning blank canvases into vibrant creations 🌈. 
+I'm KelloVerra, a creative soul who thrives on turning plain canvases into lively creations 🌈. 
 Whether it's 🖍️digital art, ✏️sketching, 🖱️3D modelling, or sometimes 🎶music, I love experimenting with colors, shapes, textures and adding expressions to bring them to life. 
 
-Art isn't just a hobby for me—it's my playground✨!
+Art isn't just a hobby for me, it's my playground✨!
 
 When I'm not concocting with my personal projects, you can find me exploring the outdoors for inspiration🌻, scrolling pinterest📱, or jamming to my favorite tunes🎶🎵!
 
