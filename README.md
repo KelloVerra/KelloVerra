@@ -1,5 +1,4 @@
 <div align="center">
-![profile](https://github.com/user-attachments/assets/5944fd6b-35d2-4dc6-980b-324c747049d0)
 <h1> Hellow! Nice to meet ya 👋 </h1>
 </div>
 
