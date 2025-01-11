@@ -31,6 +31,8 @@ I've contributed in a large-scale collaborative minecraft parkour project, **Pro
 
 # ⌨️ Technologies I Wield
 
+<img src="./assets/m.svg">
+
 <div style="display:flex; flex-flow:row wrap; justify-self:center;">
     <div style="display:flex; flex-flow:column nowrap; border: 2px solid black; border-radius: 10px; padding: 0.5rem; margin:0.25rem;">
         <img src="https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/main/assets/icon0.png" alt="html" width="128" height="128" style="image-rendering: crisp-edges;" />
