@@ -30,7 +30,7 @@ I've contributed in a large-scale collaborative minecraft parkour project, **Pro
 
 
 # ⌨️ Technologies I Wield
-![CSS3](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/technologies/css.svg)
+<image src="https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techicon_css.svg" />
 
 
 <br />
