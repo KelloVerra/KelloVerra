@@ -23,7 +23,7 @@ I've contributed in a large-scale collaborative minecraft parkour project, **Pro
 <br/>
 
 ### Besides.. I also loved coding complex logics and comprehend new and better ways to implement them!
-> My keyboard is one of my most effective weapon⚔️! ..in a sense
+> My keyboard is one of my most effective tool🛠️! ..including the rest that make up my laptop 
 
 
 
@@ -31,9 +31,15 @@ I've contributed in a large-scale collaborative minecraft parkour project, **Pro
 
 # ⌨️ Technologies I Wield
 <div align="center">
-    <image alt="css 3 badge" href="https://developer.mozilla.org/en-US/docs/Web/CSS" src="https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techbadge/css.svg" />
-    <image alt="html 5 badge" href="https://developer.mozilla.org/en-US/docs/Web/HTML" src="https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techbadge/html.svg" />
-    <image alt="js badge" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" src="https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techbadge/js.svg" />
+    [![css 3 badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techbadge/css.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+    [![html 5 badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techbadge/html.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+    [![javascript badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techbadge/js.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+</div>
+<div align="center">
+    [![aseprite badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/toolbadge/ase.svg)](https://code.visualstudio.com/)
+    [![figma badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/toolbadge/figma.svg)](https://www.aseprite.org/)
+    [![paint tool sai badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/toolbadge/sai.svg)](https://en.wikipedia.org/wiki/Paint_Tool_SAI)
+    [![visual studio code badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/toolbadge/vsc.svg)](https://www.figma.com/)
 </div>
 
 
