@@ -31,15 +31,22 @@ I've contributed in a large-scale collaborative minecraft parkour project, **Pro
 
 # ⌨️ Technologies I Wield
 <div align="center">
-    [![css 3 badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techbadge/css.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-    [![html 5 badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techbadge/html.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-    [![javascript badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techbadge/js.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[![css 3 badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techbadge/css.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![html 5 badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techbadge/html.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![javascript badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techbadge/js.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 </div>
+
+
+
 <div align="center">
-    [![aseprite badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/toolbadge/ase.svg)](https://code.visualstudio.com/)
-    [![figma badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/toolbadge/figma.svg)](https://www.aseprite.org/)
-    [![paint tool sai badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/toolbadge/sai.svg)](https://en.wikipedia.org/wiki/Paint_Tool_SAI)
-    [![visual studio code badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/toolbadge/vsc.svg)](https://www.figma.com/)
+
+[![aseprite badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/toolbadge/ase.svg)](https://www.aseprite.org/)
+[![figma badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/toolbadge/figma.svg)](https://www.figma.com/)
+[![paint tool sai badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/toolbadge/sai.svg)](https://en.wikipedia.org/wiki/Paint_Tool_SAI)
+[![visual studio code badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/toolbadge/vsc.svg)](https://code.visualstudio.com)
+
 </div>
 
 
