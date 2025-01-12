@@ -40,10 +40,10 @@ I've contributed in a large-scale collaborative minecraft parkour project at *Mi
 # ⌨️ Technologies I Wield
 <div align="center">
 
-[![css 3 badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techbadge/css.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![html 5 badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techbadge/html.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![javascript badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techbadge/js.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![mcfunction badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techbadge/mcf.svg)](https://minecraft.wiki/w/Function_(Java_Edition))
+[![css 3 badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/main/assets/widgets/techbadge/css.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![html 5 badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/main/assets/widgets/techbadge/html.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![javascript badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/main/assets/widgets/techbadge/js.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![mcfunction badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/main/assets/widgets/techbadge/mcf.svg)](https://minecraft.wiki/w/Function_(Java_Edition))
 
 </div>
 
@@ -51,11 +51,11 @@ I've contributed in a large-scale collaborative minecraft parkour project at *Mi
 
 <div align="center">
 
-[![aseprite badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/toolbadge/ase.svg)](https://www.aseprite.org/)
-[![figma badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/toolbadge/figma.svg)](https://www.figma.com/)
-[![paint tool sai badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/toolbadge/sai.svg)](https://en.wikipedia.org/wiki/Paint_Tool_SAI)
-[![visual studio code badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/toolbadge/vsc.svg)](https://code.visualstudio.com)
-[![blockbench badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/toolbadge/blb.svg)](https://www.blockbench.net/)
+[![aseprite badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/main/assets/widgets/toolbadge/ase.svg)](https://www.aseprite.org/)
+[![figma badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/main/assets/widgets/toolbadge/figma.svg)](https://www.figma.com/)
+[![paint tool sai badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/main/assets/widgets/toolbadge/sai.svg)](https://en.wikipedia.org/wiki/Paint_Tool_SAI)
+[![visual studio code badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/main/assets/widgets/toolbadge/vsc.svg)](https://code.visualstudio.com)
+[![blockbench badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/main/assets/widgets/toolbadge/blb.svg)](https://www.blockbench.net/)
 
 </div>
 
