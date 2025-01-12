@@ -31,9 +31,9 @@ I've contributed in a large-scale collaborative minecraft parkour project, **Pro
 
 # ⌨️ Technologies I Wield
 <div align="center">
-    <image alt="css 3 badge" href="https://developer.mozilla.org/en-US/docs/Web/CSS" src="https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techbadge_css.svg" />
-    <image alt="html 5 badge" href="https://developer.mozilla.org/en-US/docs/Web/HTML" src="https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techbadge_html.svg" />
-    <image alt="js badge" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" src="https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techbadge_js.svg" />
+    <image alt="css 3 badge" href="https://developer.mozilla.org/en-US/docs/Web/CSS" src="https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techbadge/css.svg" />
+    <image alt="html 5 badge" href="https://developer.mozilla.org/en-US/docs/Web/HTML" src="https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techbadge/html.svg" />
+    <image alt="js badge" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" src="https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/testin/assets/widgets/techbadge/js.svg" />
 </div>
 
 
