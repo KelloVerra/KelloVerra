@@ -9,9 +9,17 @@
 
 
 
-# 🪄 Projects I Do
+# 🪄 Projects I Do 🪄
 
-I've taken part and given a hand at making a minecraft winter experience over at **Verart**! Check them out!
+I led a team in making a multiplayer holiday-themed minecraft mini-game for *Surena Studio*, **From The shElves**! Check them out!
+
+<div align="center">
+
+[![From The shElves by Surena Studio](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/main/assets/images/FromTheshElvesSplash.webp)](https://surenastudio.com/projects/shelves)
+
+</div>
+
+I took part in helping create a minecraft winter experience at *Verart*, **Picture It!** Check them out!
 
 <div align="center">
 
@@ -19,7 +27,7 @@ I've taken part and given a hand at making a minecraft winter experience over at
 
 </div>
 
-I've contributed in a large-scale collaborative minecraft parkour project at *Minigame Makers*, **Project Run 2**! Check them out!
+I contributed to a development of a large-scale collaborative minecraft parkour project at *Minigame Makers*, **Project Run 2**! Check them out!
 
 <div align="center">
 
