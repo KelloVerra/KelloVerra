@@ -15,7 +15,7 @@ I led a team in making a multiplayer holiday-themed minecraft mini-game for *Sur
 
 <div align="center">
 
-[![From The shElves by Surena Studio](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/main/assets/images/FromTheshElvesSplash.webp)](https://surenastudio.com/projects/shelves)
+[![From The shElves by Surena Studio](https://surenastudio.com/_next/image?url=%2Fprojects%2Fshelves%2Fkeyart.png&w=2048&q=75)](https://surenastudio.com/projects/shelves)
 
 </div>
 
