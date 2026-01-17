@@ -1,15 +1,18 @@
-<div align="center">
-<h1> Hellow! Nice to meet ya 👋 </h1>
-</div>
+<h1 align="center">
+Hellow! Nice to meet ya 👋
+</h1>
 
 
-### I'm KelloVerra, a self-taught artist & software/game development student who thrives on turning plain canvases into lively creations!
-> Art isn't just a hobby for me, it's my playground✨!
+<p align="center">
+KelloVerra, a software engineer student, game developmer & self-taught artist
+</p>
+
+<br />
 
 
-
-
-# 🪄 Projects I Do 🪄
+<h2 align="center">
+ Projects 
+</h2>
 
 I led a team in making a multiplayer holiday-themed minecraft mini-game for *Surena Studio*, **From The shElves**! Check them out!
 
@@ -38,14 +41,11 @@ I contributed to a development of a large-scale collaborative minecraft parkour 
 <br/>
 <br/>
 
-### Besides.. I also loved coding complex logics and comprehend new and better ways to implement them!
-> My keyboard is one of my most effective tool🛠️! ..including the rest that make up my laptop 
 
 
-
-
-
-# ⌨️ Technologies I Wield
+<h2 align="center">
+ Familiar Tools 
+</h2>
 <div align="center">
 
 [![css 3 badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/main/assets/widgets/techbadge/css.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -70,10 +70,7 @@ I contributed to a development of a large-scale collaborative minecraft parkour 
 
 <br />
 
-<div align="right">
-
-Warm Regards,
-
+<p align="right">
+Warm Regards, <br />
 KelloVerra
-
-</div>
+</p>
