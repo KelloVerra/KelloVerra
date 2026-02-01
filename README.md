@@ -4,7 +4,7 @@ Hellow! Nice to meet ya 👋
 
 
 <p align="center">
-KelloVerra, a software engineer student, game developmer & self-taught artist
+KelloVerra, a self-taught technical artist, software engineer & game developmer
 </p>
 
 <br />
