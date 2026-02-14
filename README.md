@@ -4,7 +4,7 @@ Hellow! Nice to meet ya 👋
 
 
 <p align="center">
-KelloVerra, a self-taught technical artist, software engineer & game developmer
+KelloVerra, a self-taught technical artist, software engineer & game developer
 </p>
 
 <br />
@@ -14,7 +14,7 @@ KelloVerra, a self-taught technical artist, software engineer & game developmer
  Projects 
 </h2>
 
-I led a team in making a multiplayer holiday-themed minecraft mini-game for *Surena Studio*, **From The shElves**! Check them out!
+I led a team in making a multiplayer holiday-themed minecraft mini-game for *SurenaStudio*, **From The shElves**! Check them out!
 
 <div align="center">
 
