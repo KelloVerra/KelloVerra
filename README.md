@@ -1,5 +1,5 @@
 <h1 align="center">
-Hellow! Nice to meet ya 👋
+Hellow! Nice to meet ya <img src="/assets/widgets/emoji/wave.gif" width="30">
 </h1>
 
 
