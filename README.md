@@ -14,11 +14,12 @@ KelloVerra, a self-taught technical artist, software engineer & game developer
  Projects 
 </h2>
 
-I led a team in making a multiplayer holiday-themed minecraft mini-game for *SurenaStudio*, **From The shElves**! Check them out!
+I led a team in making an *Award Winning* multiplayer holiday-themed minecraft mini-game for *SurenaStudio*, **From The shElves**! Check them out! 
+<br>**From The shElves** receives 2 realms 2025 mapmaker awards: *Best Multiplayer Experience* & *Most Innovative*
 
 <div align="center">
 
-[![From The shElves by Surena Studio](https://surenastudio.com/_next/image?url=%2Fprojects%2Fshelves%2Fkeyart.png&w=2048&q=75)](https://surenastudio.com/projects/shelves)
+[![From The shElves by Surena Studio](/assets/thumbnails/FromTheshElvesThumbnailAward2025Realms.png)](https://surenastudio.com/projects/shelves)
 
 </div>
 
