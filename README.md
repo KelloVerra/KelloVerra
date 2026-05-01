@@ -53,6 +53,10 @@ I contributed to a development of a large-scale collaborative minecraft parkour 
 [![html 5 badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/main/assets/widgets/techbadge/html.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![javascript badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/main/assets/widgets/techbadge/js.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![mcfunction badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/main/assets/widgets/techbadge/mcf.svg)](https://minecraft.wiki/w/Function_(Java_Edition))
+[![kotlin badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/main/assets/widgets/techbadge/kotlin.svg)](https://kotlinlang.org/)
+[![csharp badge](https://raw.githubusercontent.com/KelloVerra/KelloVerra/refs/heads/main/assets/widgets/techbadge/cs.svg)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+
+
 
 </div>
 
